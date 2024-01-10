@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\airat\source\repos\rbpo_lab_4\rbpo_lab_4\source.cpp(83,107): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\airat\source\repos\rbpo_lab_4\rbpo_lab_4\source.cpp(165,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  rbpo_lab_4.vcxproj -> C:\Users\airat\source\repos\rbpo_lab_4\x64\Debug\rbpo_lab_4.exe
